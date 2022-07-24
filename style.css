@@ -3,7 +3,6 @@ body, html{
     overflow: hidden;
 }
 
-
 body{
     background-image: url("./img/background.jpeg");
     height: 100%;
@@ -11,8 +10,6 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-
 
 div{
     position: absolute;
@@ -22,6 +19,7 @@ div{
     font-size: 11em;
     text-align: center;
 }
+
 button{
     position: absolute;
     left: 50%;
